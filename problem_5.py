@@ -1,6 +1,5 @@
 import hashlib
 from datetime import datetime
-import unittest
 
 class Block:
     def __init__(self, timestamp, data, previous_hash):

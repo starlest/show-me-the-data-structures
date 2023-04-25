@@ -1,6 +1,5 @@
 # Walkthrough
-We use recursion to check all available sub groups.
-
+We use a linked list to track the blockchain of blocks.
 
 # Time Efficiency
 1. `Block.__init__`: O(1) - Constant time since it initializes a few attributes.
